@@ -1,0 +1,6 @@
+{
+    "trial_duration": 120,
+    "trials": [
+        { "name": "13-Camera Test", "num_cameras": 13, "camera_configs": [{"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30}, {"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30}, {"z": 25, "pitch": -30},{"z": 25, "pitch": -30},{"z": 25, "pitch": -30}] }
+    ]
+}
